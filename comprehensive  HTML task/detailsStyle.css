@@ -1,0 +1,82 @@
+body{
+background-color: whitesmoke;
+}
+
+h1{
+    font-weight: bold;
+    color: #A28B55; 
+    margin-top: 50px;
+    margin-left: 50px;
+}
+h3{
+    font-weight: 100px;
+    color: #A28B55; 
+    margin-left: 50px;
+}
+ .container h2{
+    background-color: beige;
+    display: inline;
+    font-weight: 100px;
+    color: #A28B55;  
+    margin-left: 50px;
+   margin-bottom: 50px;
+}
+ img{
+    width: 500px;
+    margin: 50px;
+    margin-bottom: 0px;
+}
+p{
+    font-size: 20px;
+    background-color: beige;
+    color: #A28B55;  
+    margin: 0px;
+    line-height: 1.5;
+    font-family: Arial, sans-serif;
+}
+.demo{
+    float: right;
+    margin-right: 450px;
+    margin-top: 200px;
+    color: #A28B55;
+    font-weight: bold;
+    font-size: 16px;
+}
+h2{
+    padding-right: 20px;
+}
+#quantity-select {
+    font-size: 16px;
+    background-color: white;
+    padding: 5px 10px;
+    border: 2px solid #A28B55; /* Dark cyan border */
+    border-radius: 8px; /* Rounded corners */
+    font-family: Arial, sans-serif;
+    width: 200px;   
+    color: #A28B55;
+    border: 1px solid #A28B55;
+}
+#qty{
+    font-size: 15px;
+}
+.demo a{
+    color: #A28B55;
+    text-decoration: none;
+    
+}
+button{
+    padding: 10px;
+    margin: 1px;
+    margin-left: 90px;
+    width: 70px;
+    background-color: #E7E8D8;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
+    transition: box-shadow 0.3s ease;     
+ }
+ 
+
+
